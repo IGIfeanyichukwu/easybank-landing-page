@@ -288,7 +288,7 @@ a {
 
 .four-grid-wrap {
     display: flex;
-    grid-gap: 3rem;
+    grid-gap: 6rem 3rem;
     /*flex-wrap: wrap;*/
     margin: 4rem 0;
 
@@ -319,9 +319,9 @@ a {
 
 .four-grid-wrap-two {
     display: flex;
-    grid-gap: 3rem;
+    grid-gap: 6rem 3rem;
     margin: 4rem 0;
-}
+} 
 
 .four-grid-wrap-two div {
     width: 24%;
