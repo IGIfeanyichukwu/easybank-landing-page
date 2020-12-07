@@ -786,7 +786,11 @@ a {
     .foot-pt-one div:nth-child(2) {
         display: flex;
         justify-content: center;
-        grid-gap: 3rem;
+        /*grid-gap: 3rem;*/
+    }
+
+    .foot-pt-one div:nth-child(2) a {
+        margin: 0 1rem;
     }
 
     .foot-pt-two {
@@ -1006,8 +1010,8 @@ a {
     }
 
     @media screen and (max-width: 292px) {
-        .foot-pt-one div:nth-child(2) {
-            grid-gap: 2rem;
+        .foot-pt-one div:nth-child(2) a {
+
 
         }
     }
