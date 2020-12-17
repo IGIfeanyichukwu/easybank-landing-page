@@ -8,4 +8,4 @@ Implementation of [FrontendMentor](https://frontendmentor.io) Easybank Landing P
 
 
 ## Author
-[Idoko Gideon Ifeanyichuwku (Ifex)](https://ig-ifex.netlify.app)
+[Gideon Idoko](https://github.com/IamGideonIdoko)
